@@ -17,3 +17,4 @@ func main() {
 	fmt.Print(string(out))
 }
 ```
+**NOTE:闭包里的非传递参数外部变量值是传引用的**
